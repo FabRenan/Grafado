@@ -11,7 +11,7 @@ hr{
 
 .fundo{
     background-image: url(img/fundo.jpg);
-    background-size: 150%;
+    background-size: 100%;
     position: absolute;
     text-align: center;
     background-size: cover;
@@ -22,7 +22,7 @@ hr{
 }
 
 #title{
-    width: 25%;
+    width: 30%;
     height: auto;
     margin-top: 20px;
 }
