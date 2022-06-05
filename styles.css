@@ -1,3 +1,10 @@
+@font-face{
+    font-family: 'AR Techni';
+    src: url('AR Techni.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     font-family: AR Techni, Verdana, Tahoma, sans-serif;
     text-align: center;
