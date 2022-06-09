@@ -6,7 +6,7 @@ var row = 0; //tentativa atual (palavra X)
 var col = 0;
 
 var gameOver = false;
-var lista = ['POSTE', 'CASCA', 'ROLHA', 'SAGAZ', 'NOBRE', 'VIGOR', 'IDEIA', 'PODER', 'MORAL', 'JUSTO', 'ANEXO', 'PORTA', 'POBRE', 'BOSTA', 'AFETO', 'AMIGO', 'GENRO', 'DIGNO', 'ORGIA', 'COMUM', 'PAUTA', 'MUNDO', 'FORTE', 'REGRA', 'ORDEM'];
+var lista = ['POSTE', 'CASCA', 'ROLHA', 'SAGAZ', 'NOBRE', 'VIGOR', 'IDEIA', 'PODER', 'MORAL', 'JUSTO', 'ANEXO', 'PORTA', 'POBRE', 'BOSTA', 'AFETO', 'AMIGO', 'GENRO', 'DIGNO', 'OSTRA', 'COMUM', 'PAUTA', 'MUNDO', 'FORTE', 'REGRA', 'ORDEM'];
 var word = lista[Math.ceil(Math.random() * (lista.length - 1))];
 //var word = '(listaa)'; //palavra
 
